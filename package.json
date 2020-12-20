@@ -1,0 +1,23 @@
+{
+  "name": "server_blockchain",
+  "version": "1.0.0",
+  "description": "serversite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afifa Hamid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afifahamid/server_blockchain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afifahamid/server_blockchain/issues"
+  },
+  "homepage": "https://github.com/afifahamid/server_blockchain#readme"
+}
